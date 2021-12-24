@@ -1,0 +1,8 @@
+body{
+    font-family: "Graphik-Regular", "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-weight: bold;
+}
+
+header > a,img{
+    padding: 20px;
+}
